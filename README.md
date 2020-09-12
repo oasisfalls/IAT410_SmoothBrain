@@ -1,8 +1,8 @@
 # IAT410_SmoothBrain
 
-<a href="#aneeta">Aneeta's Blog</a>
-<a href="#caleb">Caleb's Blog</a>
-<a href="#louis">Louis' Blog</a>
+<a href="#aneeta">Aneeta's Blog</a><br>
+<a href="#caleb">Caleb's Blog</a><br>
+<a href="#louis">Louis' Blog</a><br>
 <a href="#Radu">Radu's Blog</a>
 
 <h1>Team Blog</h1>
