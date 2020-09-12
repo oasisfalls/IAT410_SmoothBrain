@@ -18,6 +18,7 @@
 # Louis
   ## Week 1
 
-# Radu :fries:
+# Radu
+:fries:
   ## Week 1
   
