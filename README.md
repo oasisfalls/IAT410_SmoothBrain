@@ -37,7 +37,7 @@ Duis quis dui mi. Pellentesque sit amet augue ultricies, accumsan odio a, pellen
   
   </section>
   
-<section id="#radu">
+# radu
   <h1>Radu's Blog</h1>
   <h2>Week 1</h1>
   </section>
