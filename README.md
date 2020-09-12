@@ -1,6 +1,6 @@
 # IAT410_SmoothBrain
 
-[Radu's Blog](#radu)<br>
+[Radu's Blog]( #radu)<br>
 <a href="#caleb">Caleb's Blog</a><br>
 <a href="#louis">Louis' Blog</a><br>
 <a href="#radu">Radu's Blog</a>
