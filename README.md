@@ -19,5 +19,5 @@
   ## Week 1
 
 # Radu
-  ## Week 1
   https://github.com/Raadds/IAT410_Personal-Blog_RaduOrlandea
+  ## Week 1
