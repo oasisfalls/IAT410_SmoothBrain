@@ -19,6 +19,5 @@
   ## Week 1
 
 # Radu
-:fries:
   ## Week 1
   
