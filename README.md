@@ -1,9 +1,9 @@
 # IAT410_SmoothBrain
 
-[Aneeta's Blog](#aneeta)<br>
+[Aneeta's Blog](#aneeta's-blog)<br>
 [Caleb's Blog](#caleb)<br>
 [Louis' Blog](#louis)<br>
-[Radu's Blog](#radu)<br>
+[Radu's Blog](#radu's-blog)<br>
 
 # Team Blog
 
