@@ -1,23 +1,23 @@
 # IAT410_SmoothBrain
 
-[Aneeta's Blog](#aneeta's-blog)<br>
+[Aneeta's Blog](#aneeta)<br>
 [Caleb's Blog](#caleb)<br>
 [Louis' Blog](#louis)<br>
-[Radu's Blog](#radu's-blog)<br>
+[Radu's Blog](#radu)<br>
 
 # Team Blog
 
 ## Week 1
 
-# Aneeta's Blog
+# Aneeta
   ## Week 1
 
-# Caleb's Blog
+# Caleb
   ## Week 1
 
-# Louis' Blog
+# Louis
   ## Week 1
 
-# Radu's Blog
+# Radu
   ## Week 1
   
