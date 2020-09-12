@@ -1,9 +1,9 @@
 # IAT410_SmoothBrain
 
-:round_pushpin:[Aneeta's Blog](#aneeta)<br>
-[Caleb's Blog](#caleb)<br>
-[Louis' Blog](#louis)<br>
-[Radu's Blog](#radu)<br>
+:crown:[Aneeta's Blog](#aneeta)<br>
+:peach:[Caleb's Blog](#caleb)<br>
+:round_pushpin:[Louis' Blog](#louis)<br>
+:fries:[Radu's Blog](#radu)<br>
 
 # Team Blog
 
@@ -18,6 +18,6 @@
 # Louis
   ## Week 1
 
-# Radu
+:fries:# Radu
   ## Week 1
   
