@@ -1,6 +1,6 @@
 # IAT410_SmoothBrain
 
-[Aneeta's Blog](#aneeta)<br>
+:round_pushpin:[Aneeta's Blog](#aneeta)<br>
 [Caleb's Blog](#caleb)<br>
 [Louis' Blog](#louis)<br>
 [Radu's Blog](#radu)<br>
