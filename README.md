@@ -1,6 +1,6 @@
 # IAT410_SmoothBrain
 
-[Radu's Blog]( #radu)<br>
+[Markdown - radu](#radu)
 <a href="#caleb">Caleb's Blog</a><br>
 <a href="#louis">Louis' Blog</a><br>
 <a href="#radu">Radu's Blog</a>
@@ -37,7 +37,8 @@ Duis quis dui mi. Pellentesque sit amet augue ultricies, accumsan odio a, pellen
   
   </section>
   
- #radu
+<section id="#radu">
   <h1>Radu's Blog</h1>
   <h2>Week 1</h1>
+  </section>
   
