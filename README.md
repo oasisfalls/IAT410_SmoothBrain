@@ -12,6 +12,6 @@ This week we formed our team, created our team contract and established communic
 > *September 16th, 2020*
 
 ## Week 2 
-Following the greenlight presentation during lecture, we noted down the critiques that we recieved and then had a very brief meeting on Monday evening to discuss them while refining specific points such as the camera angle and movement. Movement seemed to be sometihng that we haven't narrowed down entirely yet, so we have agreed to brainstorm 2 - 3 ways of movement that we would like to implement for our next meeting, where we will also address any critiques that have been given on canvas from the game proposal submission.<br>
+Following the greenlight presentation during lecture, we noted down the critiques that we recieved and then had a very brief meeting on Monday evening to discuss them while refining specific points such as the camera angle and movement. Movement seemed to be something that we haven't narrowed down entirely yet, so we have agreed to brainstorm 2 - 3 ways of movement that we would like to implement for our next meeting, where we will also address any critiques that have been given on canvas from the game proposal submission.<br>
 > *September 23rd, 2020*
 
