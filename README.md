@@ -7,6 +7,17 @@
 
 # Team Blog
 
+## Week 4
+
+We had nothing necessarily due this week, but to prepare for the upcoming playtesting our group had a meeting on Monday evening to really solidify the mechanics of our game after the critique that we got in the previous lab. We had assigned specific things for each teammate to do and aimed to have our prototype done by Thursday. 
+
+Some details that we figured out were that each time our brain character kicks off of a wall it was increase their momentum, which will be calculated by vector equations. Friction is always at play, and we incorporated ways to restore health during levels such as using the idea of having it in a hard to reach corner or area of the room where it will only spawn at a certain time. We are not sure if we want this game to be realtime yet although we are leaning towards it, but ultimately we will decide after playtesting. 
+
+Otherwise, the prototype has begun, team members are learning to code and learn the engine to assist our head developer, and the artwork and level design is slowly progressing as well.
+
+> *October 6th, 2020*
+
+
 ## Week 3
 Our team had two meetings this week, one on Monday to discuss and complete our first version of the GDD, and then one on Tuesday to create our presentation. During our Monday meeting our team discussed and agreed upon how our movement mechanics would work, which is using the mouse and right clicking to briefly stop time to allow the player to choose a direction to go in for their smooth brain. A rough idea of this concept is shown below.
 
