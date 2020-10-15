@@ -7,6 +7,15 @@
 
 # Team Blog
 
+## Week 5
+
+This week we ended up having three meetings. During our first meeting on Friday evening we discussed initial thoughts on our prototype to prepare for playtesting sessions, and then decided on what to change/add to be ready for our playtesting session. Since we could not progress further with an updated GDD, we had our second meeting on Sunday evening to finalize the prototype and decided how many playable levels we'd incorporate since we had hand drawn many level designs. 
+
+We had our final meeting on Tuesday in two sessions. First was to brush up the prototype such as adding the ability to reset back to level 1 once the player dies and so that when the player is at a low enough speed and isn't near a all, it will be able to launch itself again at the cost of health. One of our team members then ran the playtesting sessions, and then we regrouped to discuss the outcomes and completed the GDD along with the Playtesting sheet. We have some updated sprites to add this week as well such as two enemy types to differentiate it from the main player, and the walls. 
+
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/patrol.png)
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/overseer.png)
+
 ## Week 4
 
 We had nothing necessarily due this week, but to prepare for the upcoming playtesting our group had a meeting on Monday evening to really solidify the mechanics of our game after the critique that we got in the previous lab. We had assigned specific things for each teammate to do and aimed to have our prototype done by Thursday. 
