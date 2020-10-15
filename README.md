@@ -15,6 +15,9 @@ We had our final meeting on Tuesday in two sessions. First was to brush up the p
 
 ![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/patrol.png)
 ![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/overseer.png)
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/image1.png)
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/image2.png)
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/image3.png)
 
 > *October 14th, 2020*
 
