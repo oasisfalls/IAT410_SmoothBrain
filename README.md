@@ -16,6 +16,8 @@ We had our final meeting on Tuesday in two sessions. First was to brush up the p
 ![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/patrol.png)
 ![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/overseer.png)
 
+> *October 14th, 2020*
+
 ## Week 4
 
 We had nothing necessarily due this week, but to prepare for the upcoming playtesting our group had a meeting on Monday evening to really solidify the mechanics of our game after the critique that we got in the previous lab. We had assigned specific things for each teammate to do and aimed to have our prototype done by Thursday. 
