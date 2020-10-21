@@ -7,6 +7,12 @@
 
 # Team Blog
 
+## Week 6
+
+With more time to work on our next prototype, our team got together on Sunday evening to discuss feedback that we recieved from our classmates, TA, and prof during our lab, how we want to implement that, and other changes we would like to have done for the next prototype as well. We made quite a long list and noted some points that would be a much lower priority than others such as the story to incorporate into our tutorial level as we aim to have animations for that, but the mechanics are the main focus that we want to complete these coming weeks. We assigned roles for every member, Caleb will handle sprites, creating soft block tiles and an angry state for the skateboard enemy sprite, Louis will handle general coding, Radu will work on more level design and refining our current levels in Unity, and Aneeta will handle the supplementary documents going towards the next hand-in such as the GDD and setting up Playtesting templates. We will be refining what we want done and what tasks each team members will be doing/assisting others with when we have a check-in meeting on Friday.
+
+> *October 21st, 2020*
+
 ## Week 5
 
 This week we ended up having three meetings. During our first meeting on Friday evening we discussed initial thoughts on our prototype to prepare for playtesting sessions, and then decided on what to change/add to be ready for our playtesting session. Since we could not progress further with an updated GDD, we had our second meeting on Sunday evening to finalize the prototype and decided how many playable levels we'd incorporate since we had hand drawn many level designs. 
