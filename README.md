@@ -7,6 +7,36 @@
 
 # Team Blog
 
+## Week 8
+
+It was a very busy week as we worked up until the minute of our deadlines. We began by reconvening Monday evening. We didn't get everything that we wanted to get done for this prototype but we did make a lot of progress. The tile sprites have been revamped, there are new sprites for the power ups, added a cooldown for the clicks, added an arrow that appears when clicking and holding to gives visual feedback for our players to know what direction they will be launching their brain in, added entrances/exits for the rooms so that the player is able to go back and forth once enemies in a room have been defeated, implemented our new powerups, and when the player gets to a new room, their health will replenish. We created a temporary Home Screen and Game Over screen, and also included a tutorial splash screen that appears when clicking the instructions from the home screen. We do intend to create a full narrative tutorial level instead of the splash screen and have a full narrative set aside but it was not a priority this week, for this prototype we just wanted to ensure that we had some teaching component. 
+
+Some very clear visual changes are in the doors appearing in the rooms and the mini map that we have in the corner of each room. The doors appear only when the player has successfully gotten all of the enemies to concuss themselves, and the use of the mini map in the corner allows the player to know where they are on that floor, and how far away they are from reaching the next one. 
+
+A very big critique that we recieved and fixed this week was the contrast in size between the characters and the room. Previously, the rooms were very large and our characters seemed very small, giving a feeling of imbalance, but we have now adjusted the sizes of the room and characters to create a more aesthetically balanced room.
+
+For this prototype we have the rooms hardcoded in a specific order, although we do intend to make them RNG so that the player does not know what to expect everytime they play. Momentum was another aspect that we made sure to add - so the faster the brain continues to bounce off of the walls, the faster it will go because it is building momentum, however, when the longer the brain trails off, the slower it will get. If the brain eventually comes to a full stop in an area that has no nearby walls for it to bounce off of, it has the ability to bounce in any direction, at the price of losing some HP points. 
+
+We worked on the GDD and did 5 playtesting runs with various different players this round which gave us some very insightful feedback for our next prototype.
+
+###### Power Ups
+
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/shield.png)
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/ice.png)
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/heart.png)<br>
+
+###### Direction Arrow
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/dial.png)
+
+###### Mini Map
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/1.png)
+
+###### New Room Tiles Added
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/proto2.jpg)
+
+
+> *November 4th, 2020*
+
 ## Week 7
 
 This week the most progress we made was new wall sprites and different state sprites for one of our enemies and environment. Our entire team unfortunately fell very busy with other classes and did not get to accomplish what we had planned, but we did have a meeting on Tuesday evening and set internal deadlines and specific tasks that needed to be done, as well with others that were low priority, so that we could make sure to have the requirements complete for the next milestone.
@@ -24,6 +54,7 @@ With more time to work on our next prototype, our team got together on Sunday ev
 This week we ended up having three meetings. During our first meeting on Friday evening we discussed initial thoughts on our prototype to prepare for playtesting sessions, and then decided on what to change/add to be ready for our playtesting session. Since we could not progress further with an updated GDD, we had our second meeting on Sunday evening to finalize the prototype and decided how many playable levels we'd incorporate since we had hand drawn many level designs. 
 
 We had our final meeting on Tuesday in two sessions. First was to brush up the prototype such as adding the ability to reset back to level 1 once the player dies and so that when the player is at a low enough speed and isn't near a all, it will be able to launch itself again at the cost of health. One of our team members then ran the playtesting sessions, and then we regrouped to discuss the outcomes and completed the GDD along with the Playtesting sheet. We have some updated sprites to add this week as well such as two enemy types to differentiate it from the main player, and the walls. 
+
 
 ![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/patrol.png)
 ![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/overseer.png)
