@@ -7,6 +7,13 @@
 
 # Team Blog
 
+## Week 9
+
+We did not make any progress this week as we were not able to have a meeting, but will be having a meeting Thursday morning.
+
+> *October 29th, 2020*
+
+
 ## Week 8
 
 It was a very busy week as we worked up until the minute of our deadlines. We began by reconvening Monday evening. We didn't get everything that we wanted to get done for this prototype but we did make a lot of progress. The tile sprites have been revamped, there are new sprites for the power ups, added a cooldown for the clicks, added an arrow that appears when clicking and holding to gives visual feedback for our players to know what direction they will be launching their brain in, added entrances/exits for the rooms so that the player is able to go back and forth once enemies in a room have been defeated, implemented our new powerups, and when the player gets to a new room, their health will replenish. We created a temporary Home Screen and Game Over screen, and also included a tutorial splash screen that appears when clicking the instructions from the home screen. We do intend to create a full narrative tutorial level instead of the splash screen and have a full narrative set aside but it was not a priority this week, for this prototype we just wanted to ensure that we had some teaching component. 
