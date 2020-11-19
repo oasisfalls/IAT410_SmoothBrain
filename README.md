@@ -7,11 +7,25 @@
 
 # Team Blog
 
+## Week 10
+
+During our meeting this week we created a to-do list and brainstormed what we wanted to implement for our beta code which included an RNG version to test, rooms for each floor, adding soft blocks to some rooms, new enemies such as a turret enemy and a self-harm exploder, environmental hazards such as a moving block, updating old enemies, boss types for each floor, visual feedback elements such as taking damage, enemies being slowed, and diegetic UI such as the brain having a hat and having it fill up with a color to show how much momentum it has built up, as well as the brain looking more beat up as it takes damage. 
+
+Sprite were another big portion to tackle as we are creating new enemies, re-working our previous characters, adding enemy tints when the ice powerup is picked up, and also animating the sprites as well.
+
+After figuring out what we want to achieve we split up roles accordingly and got to work, then checked in on Monday. As of right now we don't have any visuals to show other than a sprite for our final boss, who is also known as uncle brain, but we do have a way of implementing RNG rooms, although there are still aspects of that to figure out such triggering the doors to go between rooms since the RNG version is all on one scene in Unity. 
+
+###### Uncle Brain
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/week10_uncleBrain.png)
+
+> *November 19th, 2020*
+
+
 ## Week 9
 
 We did not make any progress this week as we were not able to have a meeting, but will be having a meeting Thursday morning.
 
-> *October 29th, 2020*
+> *November 11th, 2020*
 
 
 ## Week 8
