@@ -7,6 +7,46 @@
 
 # Team Blog
 
+## Week 11
+
+This week we pushed hard to polish our Beta code, and although we did not accomplish everything that we wanted to, we are aware of the next steps to be taken towards our final polish. After the lab session and the multiple playtests that we had, we gained a lot of insight on how to possibly ramp our game better as it was quite difficult from the very first level. 
+
+We were able to implement two new enemies, updated character designs, added a full map of rooms for each level which have much better ramping throughout, the final boss, updated environmental sprites, and added some UI visual feedback elements that will be replaced with clearer visuals. These feedback elements include a diegetic indication of when it is the best time for the player to bounce off of any walls which is currently a blue border around the player, and we also have other HUD elements such as the momentum bar and countdown timers to indicate when the power-ups will be gone.
+
+Our playtesters really enjoyed these new updates, although the biggest thing that we were unable to implement is the tutorial, which based on our playtests, definitely would've helped a lot, although we were happy to hear that players still thoroughly enjoyed the game thus far. 
+
+The tutorial will for sure be implemented in the final version which will give a better idea of the narrative for the players. We will be adding health bars for the enemies, and are currently having an original score composed for the entire game that we will add as well. Sound effects are likely to be added as well to enhance the feedback for the players and sprite characters will be animated. We left the animation of the sprite characters for very last incase we revised the design along the way. A lot of progress will be made this weekend towards the final!
+
+###### Bomb Brain
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/bomg_brain.png)
+when touching this brain, the player immediately dies and the bomb brain will also chase the player when it is in close proximity
+
+###### Turret Brain
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/Gun_brain.png)
+this brain will shoot projectiles towards the brain in whichever direction the player is
+
+###### Uncle Brain
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/uncle_brain.png)
+
+###### Smooth Brain Update
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/new_brain.png)
+
+###### Level 2 Mini-Map
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/14.png)
+
+###### Level 3 Mini-Map
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/27.png)
+
+###### Screenshot of a Level 2 room and Turret Brain
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/level2.jpg)
+
+###### Screenshot of Level 3 room and Bomb Brain
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/level3.jpg)
+
+> *November 26th, 2020*
+
+
+
 ## Week 10
 
 During our meeting this week we created a to-do list and brainstormed what we wanted to implement for our beta code which included an RNG version to test, rooms for each floor, adding soft blocks to some rooms, new enemies such as a turret enemy and a self-harm exploder, environmental hazards such as a moving block, updating old enemies, boss types for each floor, visual feedback elements such as taking damage, enemies being slowed, and diegetic UI such as the brain having a hat and having it fill up with a color to show how much momentum it has built up, as well as the brain looking more beat up as it takes damage. 
@@ -15,7 +55,7 @@ Sprite were another big portion to tackle as we are creating new enemies, re-wor
 
 After figuring out what we want to achieve we split up roles accordingly and got to work, then checked in on Monday. As of right now we don't have any visuals to show other than a sprite for our final boss, who is also known as uncle brain, but we do have a way of implementing RNG rooms, although there are still aspects of that to figure out such triggering the doors to go between rooms since the RNG version is all on one scene in Unity. 
 
-###### Uncle Brain
+###### Uncle Brain Boss
 ![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/week10_uncleBrain.png)
 
 > *November 19th, 2020*
