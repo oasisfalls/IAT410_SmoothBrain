@@ -7,6 +7,15 @@
 
 # Team Blog
 
+## Week 12 - FINAL WEEK
+
+Our game is complete!!! We worked incredibly hard to polish the final game by adding in the tutorial, sound effects, music, bosses, new menu screen, game over screen, credits, and overall UI improvements. There are now borders for the timer bars that distinctly show which power up it is attached too, a border around the momentum bar, health bars for all the enemies, limited vision on level 2, and adjusting the overseer enemies line of sight where it won't start chasing if there is a wall between the smooth brain and the enemy. We also implemented the background music that we actually had original scores for and sound effects as well to enhance the overall experience of the game.
+
+At this stage we do feel that we could develop this further since we were pressed for time and were not able to incorporate the keys in the puzzle room component that we originally wanted, although it wasn't a necessity for the game. It was a tough semester but we are proud of what we have accomplished with this class!!
+
+> *December 4th, 2020*
+
+
 ## Week 11
 
 This week we pushed hard to polish our Beta code, and although we did not accomplish everything that we wanted to, we are aware of the next steps to be taken towards our final polish. After the lab session and the multiple playtests that we had, we gained a lot of insight on how to possibly ramp our game better as it was quite difficult from the very first level. 
